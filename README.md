@@ -33,6 +33,7 @@ Tools & Resources:
 
 Learning (Private):
 
+- [notes](https://github.com/ihnfsax/notes)
 - [coding-problems](https://github.com/ihnfsax/coding-problems)
 - [kernel-learning](https://github.com/ihnfsax/kernel-learning)
 - [cpp-learning](https://github.com/ihnfsax/cpp-learning)
